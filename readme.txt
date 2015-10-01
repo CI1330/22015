@@ -1,5 +1,5 @@
-Este es mi primer fichero.
+Este es mi primer fichero
 
-Otra línea.
+Otra linea
 
-Solución bug.
+SOLUCION BUG
